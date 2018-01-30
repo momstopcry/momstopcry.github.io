@@ -1,0 +1,167 @@
+@media screen and (min-width: 320px){
+	body{
+	font-family: Lato-Light;
+	color: #333;
+ 	margin: 0;
+}
+
+nav{
+	padding: 3%;
+	padding-bottom: 10%;
+	font-size: 1.7em;
+	background-color: #62bcfa;
+	text-align: center;
+
+}
+
+.title{color: #fccdd3; font-size: 2.1em; text-shadow: 2px 2px 3px  #333;}
+
+#helpme{
+	color: white;
+	font-size: 2.0em;
+	background-color: #6534ff;
+	height: 800px;
+}
+
+.subhelpme{
+	margin-top: -17%;
+	margin-left: 20%;
+}
+
+#yournamehere{
+	background-color: white;
+	font-size: 1.2em;
+	height: 500px;
+	text-align: center;
+}
+
+.h1yournamehere{color: #525252; text-align: center; font-size: 1.8em;}
+}
+
+
+
+
+@media screen and (min-width: 1620px){
+body{
+	font-family: Lato-Light;
+	color: #333;
+ 	margin: 0;
+}
+
+nav{
+	padding: 3%;
+	padding-bottom: 10%;
+	font-size: 1.7em;
+	background-color: #62bcfa;
+	text-align: center;
+
+}
+
+.title{color: #fccdd3; font-size: 2.1em; text-shadow: 2px 2px 3px  #333;}
+
+.momlogo{
+	padding-top: 12%;
+	width: 14%;
+}
+
+#helpme{
+	color: white;
+	font-size: 2.0em;
+	background-color: #6534ff;
+	height: 800px;
+}
+
+.subhelpme{
+	margin-top: -17%;
+	margin-left: 20%;
+}
+
+#yournamehere{
+	background-color: white;
+	font-size: 1.2em;
+	height: 500px;
+	text-align: center;
+}
+
+.h1yournamehere{color: #525252; text-align: center; font-size: 1.8em;}
+
+.backfigure{
+	width: 25%; height: 45%; padding: 2%; margin-left: 36%;
+	box-shadow: 1px 1px 1px #cfcfcf;
+	border-radius: 20px;
+}
+
+/*LINKS*/
+a:link{font-size: 1.4em; color: white; text-decoration: none; padding-right: 2%;}
+a:visited{color: white;}
+a:hover{color: white; text-decoration: underline;}
+
+/*Link UM*/
+a.linkum:link{
+	background-color: #333;
+	padding: 20px;
+	color: #2e71ec;
+}
+
+a.linkum:visited{
+	color: #2e71ec;
+}
+
+a.linkum:hover{
+	text-decoration: underline
+}
+
+
+/*FONTS*/
+@font-face {
+     font-family: Lato-Light;
+     src: url('font/Lato-Light.ttf');
+}
+
+
+
+
+/*1920*/
+@media screen and (min-width: 1920px){
+
+.momlogo{
+	padding-top: 10%;
+	width: 14%;
+}
+
+#helpme{
+	color: white;
+	font-size: 2.5em;
+	background-color: #6534ff;
+	height: 1100px;
+}
+
+.subhelpme{
+	margin-top: -17%;
+	margin-left: 20%;
+}
+
+
+/*LINKS*/
+a:link{font-size: 2.0em; color: white; text-decoration: none; padding-right: 2%;}
+a:visited{color: white;}
+a:hover{color: white; text-decoration: underline;}
+
+/*Link UM*/
+a.linkum:link{
+	background-color: #333;
+	padding: 20px;
+	color: #2e71ec;
+}
+
+a.linkum:visited{
+	color: #2e71ec;
+}
+
+a.linkum:hover{
+	text-decoration: underline
+}
+
+.h1yournamehere{color: #525252; text-align: center; font-size: 2.8em;}
+figcaption{font-size: 2.0em;}
+}
